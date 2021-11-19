@@ -1,7 +1,4 @@
 
-
-
-  
 # Interest💡
  
 Staticstics & AI & Development
