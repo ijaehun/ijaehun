@@ -13,7 +13,6 @@ Staticstics & AI & Development
 # Me😀 
  
 <a href="https://github.com/ijaehun" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"/></a>
-<a href="http://ijaehun.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-181717?style=plastic&logo=blogger&logoColor=white"/></a>
 <a href="dynamic97312@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijaehun&show_icons=true&theme=algolia)
